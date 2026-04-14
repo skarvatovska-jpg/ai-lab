@@ -94,3 +94,21 @@ footer {
 footer a {
     color: white;
 }
+
+.workflow-step {
+    background: #f8f9fa;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+    border-left: 4px solid #1abc9c;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.workflow-step p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+.workflow-step strong {
+    color: #2c3e50;
+}
